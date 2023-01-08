@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔨 I’m currently working on FeedCap  :point_right: https://github.com/Daniel-Bober/FeedCap<br>:trollface: I’m currently learning Typescript (generic types and decorators)<br>💬 Contact daniel.bober01@gmail.com
+🔨 I’m currently working on FeedCap  :point_right: https://github.com/Daniel-Bober/FeedCap<br>:trollface: I’m currently "learning" Typescript (generic types and decorators)<br>💬 Contact daniel.bober01@gmail.com
 
 
 # 💻 Tech Stack:
