@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Daniel-Bober/Daniel-Bober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔨 I’m currently working on FeedCap  :point_right: https://github.com/Daniel-Bober/FeedCap<br>:trollface: I’m currently learning Typescript (generic types and decorators)<br>💬 Contact daniel.bober01@gmail.com
 
