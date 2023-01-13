@@ -15,7 +15,7 @@
 <br/>
 
  # :tada: GitHub Stats:
-![](https://github-readme-stats.vercel.app/PAT_1&api?username=Daniel-Bober&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=Daniel-Bober&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Bober&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Bober&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
