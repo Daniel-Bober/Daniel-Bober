@@ -1,10 +1,3 @@
-### Hi 👋👋
-
-<br>
-
-# :no_mouth: About Me:
-🔨 I’m currently working on FeedCap  :point_right: https://github.com/Daniel-Bober/FeedCap<br>
-:books: I’m currently learning Typescript (generic types and decorators)<br>
 :speech_balloon: Contact :point_right: daniel.bober01@gmail.com
 
 <br>
